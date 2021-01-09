@@ -2,7 +2,7 @@
 image: /img/IMG_5837_ac_1ccw_cr_widecrop1.jpg
 ---
 
-## Welcome to GitHub Pages EDITED
+## Welcome to GitHub Pages EDITED and maybe it is there now.
 
 You can use the [editor on GitHub](https://github.com/owenozier/test124/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
